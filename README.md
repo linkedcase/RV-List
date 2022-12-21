@@ -1,2 +1,2 @@
 # RV-List
-Отображение списка ReyclerView c использованием Glide
+Отображение списка ReyclerView c использованием библиотеки Glide
